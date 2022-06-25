@@ -4,5 +4,5 @@ const leapYears = function (year) {
   } else return false;
 };
 
-// Do not edit below this linee
+// Do not edit below this line
 module.exports = leapYears;
